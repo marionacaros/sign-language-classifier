@@ -1,0 +1,12 @@
+__pycache__
+*jpg
+*rar
+*zip
+*gz
+*avi
+*swp
+data/logs/*
+data/first_logs/*
+data/checkpoints/*
+data/sequences/*
+data/c3d/*

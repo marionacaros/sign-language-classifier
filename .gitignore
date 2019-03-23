@@ -1,0 +1,12 @@
+__pycache__
+*jpg
+*rar
+*zip
+*gz
+*avi
+*swp
+video-classifier/data/logs/*
+video-classifier/data/first_logs/*
+video-classifier/data/checkpoints/*
+video-classifier/data/sequences/*
+video-classifier/data/c3d/*

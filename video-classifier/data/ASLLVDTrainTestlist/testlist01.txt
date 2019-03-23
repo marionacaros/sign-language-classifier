@@ -1,0 +1,16 @@
+ART-DESIGN_1.mov
+ART-DESIGN_2.mov
+CUTE_1.mov
+CUTE_2.mov
+DRESS-CLOTHES_1.mov
+DRESS-CLOTHES_2.mov
+EAT_1.mov
+EAT_2.mov
+EXCUSE_1.mov
+EXCUSE_2.mov
+FIFTH_1.mov
+FIFTH_2.mov
+INFORM_1.mov
+INFORM_2.mov
+SAME_1.mov
+SAME_2.mov
